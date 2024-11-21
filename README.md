@@ -6,5 +6,7 @@ Spatio-Temporal Analysis of Bike Share Trip Data
 
  • Created dynamic choropleth maps and animations in QGIS to visualize trip volumes over time, aiding in data driven decision-making for station management.
 
+ •Technologies used: DBeaver, PostgreSQL, GIS.
+
 
 
